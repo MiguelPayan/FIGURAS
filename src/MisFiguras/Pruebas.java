@@ -4,7 +4,7 @@ package MisFiguras;
 public class Pruebas {
 
     public static void main(String[] args) {
-
+//HOLA JAJSJA
         //ACTUALIZAR FIGURAS
         Rectangulo r1 = new Rectangulo(2.0,4.0);
         System.out.println("RECTANGULOS");
